@@ -1,0 +1,77 @@
+.top {
+    background-image: url("../resources/img_bg_1.jpg");
+    background-size: 100% 100%;
+    
+}
+.navbar-default {
+    background-color: transparent;
+}
+.navbar-icon-left{
+    padding-left: 80%
+
+}
+.h1-centralizado{
+    margin-bottom: 25%;
+    margin-top: 25%;
+}
+.form-bg{
+    background-color: white;
+    margin-top: 130px;
+   
+}
+.config-input{
+    width: 250px;
+    margin-left: 15%;
+
+}
+.bg-heigth{
+    height: 10px;
+    width: 100%;
+    margin-left: 0%;
+}
+.form-margin-left{
+    margin-left: 175px;
+}
+.btn-margin-bot{
+    margin-bottom: 30px;
+}
+
+html {
+    height: 100%
+}
+#bg-nuvem{
+    background-image: url("../images/img_bg_2.jpg");
+    background-size: 100% 100%;
+}
+
+#bg-blue{
+    background-color:#00ACC1;
+    background-size: 100% 100%;
+}
+.col-sm{
+    padding-top: 15px;
+    padding-bottom: 15px;
+}
+
+#space{
+    padding-bottom: 100px;
+    padding-top: 100px;
+}
+
+#wtext{
+    color: white;
+}
+
+.numberCircle {
+    border-radius: 50%;
+    behavior: url(PIE.htc); /* remove if you don't care about IE8 */
+    width: 60px;
+    height: 60px;
+    padding: 8px;
+    background: #fff;
+    border: 2px solid white;
+    color: white;
+    text-align: center;
+    font: 32px Arial, sans-serif;
+    display: inline-block;
+}
